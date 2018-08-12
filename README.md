@@ -2,7 +2,7 @@
 ⚛️  🚀  Resources to get started and flying with Gatsby. 
 
 
-![Gatsby](img/banner.jpg "Gatsby")
+![Gatsby](img/gatsby.png "Gatsby")
 
 
 
