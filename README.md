@@ -142,6 +142,8 @@ To get started with Gatsby, Checkout its [Documentation](https://www.gatsbyjs.or
 * [5 minutes of React podcast - in English](https://5minreact.audio/) ([source](https://github.com/5minreact/5minreact_audio))
 * [@hsribei's log](https://hsribei.github.io/log) ([source](https://github.com/hsribei/log))
 * [Megan Keesee](https://megankeesee.com) ([source](https://github.com/MeganKeesee/personal-site))
+* [storybooks.js.org](https://storybooks.js.org) ([source](https://github.com/storybooks/storybooks.github.io/))
+* [effulgence.io](http://effulgence.io) ([source](https://github.com/prayasht/prayasht.github.io/tree/develop/v3))
 
 
 
@@ -153,7 +155,7 @@ To get started with Gatsby, Checkout its [Documentation](https://www.gatsbyjs.or
 <hr>
 
 
-Found an awesome blog, video, talk, tutorial etc that's not on this list?. Notify me or send a PR.
+Found an awesome video, talk, tutorial,or site built with Gatsby etc that's not on this list?. Notify me or send a PR.
 
 
 
@@ -179,6 +181,3 @@ Why not star the github repo? I'd love the attention! Why not share the link for
 Don't forget to [follow me on twitter!](https://twitter.com/marizu_makozi)
 
 Thanks! Marizu-Ibewiro Makozi.
-
-* [storybooks.js.org](https://storybooks.js.org) ([source](https://github.com/storybooks/storybooks.github.io/))
-* [effulgence.io](http://effulgence.io) ([source](https://github.com/prayasht/prayasht.github.io/tree/develop/v3))
